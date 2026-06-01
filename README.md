@@ -1,3 +1,14 @@
-# Summer Assignment Repository
+# Summer Assignment 2026
 
-Upload your LeetCode and OOPS solutions in the appropriate folders.
+**Name:** Kelvin Kushagra Jain  
+**Roll No:** 2401921520131
+
+This repository contains my solutions for the Summer Assignment 2026.
+
+### Structure
+- Week 1 to Week 4 folders
+- Daily LeetCode DSA solutions
+- Weekly OOPS assignments
+
+### Language Used
+- Java
