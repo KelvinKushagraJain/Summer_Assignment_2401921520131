@@ -1,2 +1,3 @@
-# Summer_Assignment_2401921520131
-GL BAJAJ 3rd YEAR ASSIGNMENTS - DSA and OOPS
+# Summer Assignment Repository
+
+Upload your LeetCode and OOPS solutions in the appropriate folders.
